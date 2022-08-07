@@ -146,7 +146,7 @@ img {
 
     main {
         display: flex;
-        min-height: 20rem;
+        min-height: 18rem;
         gap: 2rem;
     }
 
